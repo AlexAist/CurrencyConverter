@@ -13,27 +13,27 @@
 
 ### 1. Диаграмма активности<a name="1"></a>
 #### 1.1 Перевод из одной валюты в другую<a name="1.1"></a>
-![Active Diagram](https://github.com/Vanya112/CurrencyConverter/blob/master/Documentation/Diagrams/ActivityDiagram.png)
+![Active Diagram](https://github.com/Vanya112/CurrencyConverter/blob/master/Documentation/Diagrams/Activity/ActivityDiagram.png)
 
 
 ### 2. Диаграмма классов<a name="2"></a>
 Диаграмма классов представляет собой следующую диаграмму: 
-![Class Diagram](https://github.com/Vanya112/CurrencyConverter/blob/master/Documentation/Diagrams/ClassDiagram.png)
+![Class Diagram](https://github.com/Vanya112/CurrencyConverter/blob/master/Documentation/Diagrams/Class/ClassDiagram.png)
 
   
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграмма последовательности основного варианта использования представляет из себя следующую диаграмму:
-![Sequence Diagram](https://github.com/Vanya112/CurrencyConverter/blob/master/Documentation/Diagrams/SequenceDiagram.png)
+![Sequence Diagram](https://github.com/Vanya112/CurrencyConverter/blob/master/Documentation/Diagrams/Sequence/SequenceDiagram.png)
 
 ### 4. Диаграмма состояний<a name="4"></a>
 Диаграмма состояний представляет из себя следующую диаграмму:
-![States Diagram](https://github.com/Vanya112/CurrencyConverter/blob/master/Documentation/Diagrams/StatesDiagram.png)
+![States Diagram](https://github.com/Vanya112/CurrencyConverter/blob/master/Documentation/Diagrams/State/StatesDiagram.png)
 
 ### 5. Диаграмма развертывания<a name="5"></a>
 
 ### 6. Диаграмма прецедентов<a name="6"></a>
 Диаграмма прецедентов представляет собой следующую диаграмму: 
-![Use Case](https://github.com/Vanya112/CurrencyConverter/blob/master/Documentation/Diagrams/FunctionalRequirements.png)
+![Use Case](https://github.com/Vanya112/CurrencyConverter/blob/master/Documentation/Diagrams/UseCase/FunctionalRequirements.png)
 #### 6.1 Актёры<a name="6.1"></a>
 
 Актёр | Описание

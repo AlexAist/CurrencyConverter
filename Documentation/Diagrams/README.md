@@ -10,8 +10,6 @@
 6.2.1 [Варианты использования](#6.2)<br>
 6.2.2 [Варианты использования](#6.2)<br>
 
-### [Глоссарий](https://github.com/steppbol/B-Player/blob/master/docs/Project%20Documentation/Glossary.md)
-
 ### 1. Диаграмма активности<a name="1"></a>
 ![Active Diagram](https://github.com/Vanya112/CurrencyConverter/blob/master/Documentation/Diagrams/ActivityDiagram.png)
 

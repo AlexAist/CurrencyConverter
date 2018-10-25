@@ -58,6 +58,6 @@
 Диаграмма классов представляет из себя следующую диаграмму:
 ![Class Diagram](https://github.com/Vanya112/CurrencyConverter/blob/master/Documentation/Diagrams/Class/ClassDiagram.png)
 
-### 6. Диаграмма компонентов<a name="6"></a>
+### 6. Диаграмма компонентов и развёртывания<a name="6"></a>
 Диаграмма компонентов представляет собой следующую диаграмму: 
 ![Component](https://github.com/Vanya112/CurrencyConverter/blob/master/Documentation/Diagrams/Component/ComponentDiagram.png)

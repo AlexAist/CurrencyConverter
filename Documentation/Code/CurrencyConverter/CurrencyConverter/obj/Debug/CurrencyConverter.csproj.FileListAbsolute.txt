@@ -1,0 +1,9 @@
+c:\users\vanek\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+c:\users\vanek\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+c:\users\vanek\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+c:\users\vanek\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+c:\users\vanek\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+c:\users\vanek\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+c:\users\vanek\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+c:\users\vanek\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+c:\users\vanek\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

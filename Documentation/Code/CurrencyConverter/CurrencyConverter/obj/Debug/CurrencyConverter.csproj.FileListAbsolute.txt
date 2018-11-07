@@ -7,3 +7,15 @@ c:\users\vanek\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\Curren
 c:\users\vanek\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
 c:\users\vanek\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
 c:\users\vanek\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\Vanek\Desktop\CurrencyConverter\Documentation\Code\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\Vanek\Desktop\CurrencyConverter\Documentation\Code\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\Vanek\Desktop\CurrencyConverter\Documentation\Code\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\Vanek\Desktop\CurrencyConverter\Documentation\Code\CurrencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vanek\Desktop\CurrencyConverter\Documentation\Code\CurrencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vanek\Desktop\CurrencyConverter\Documentation\Code\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\Vanek\Desktop\CurrencyConverter\Documentation\Code\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.CurrencyForm.resources
+C:\Users\Vanek\Desktop\CurrencyConverter\Documentation\Code\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\Vanek\Desktop\CurrencyConverter\Documentation\Code\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+C:\Users\Vanek\Desktop\CurrencyConverter\Documentation\Code\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Vanek\Desktop\CurrencyConverter\Documentation\Code\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\Vanek\Desktop\CurrencyConverter\Documentation\Code\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

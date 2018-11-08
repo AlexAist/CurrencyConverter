@@ -55,6 +55,7 @@
             this.fromAmount.Name = "fromAmount";
             this.fromAmount.Size = new System.Drawing.Size(121, 29);
             this.fromAmount.TabIndex = 0;
+            this.fromAmount.KeyUp += new System.Windows.Forms.KeyEventHandler(this.FromAmont_KeyUp);
             // 
             // toAmount
             // 
@@ -71,6 +72,11 @@
             this.fromCurrency.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.fromCurrency.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.fromCurrency.FormattingEnabled = true;
+            this.fromCurrency.Items.AddRange(new object[] {
+            "BYN",
+            "USD",
+            "EUR",
+            "RUB"});
             this.fromCurrency.Location = new System.Drawing.Point(40, 211);
             this.fromCurrency.Name = "fromCurrency";
             this.fromCurrency.Size = new System.Drawing.Size(121, 32);
@@ -81,6 +87,11 @@
             this.toCurrency.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.toCurrency.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.toCurrency.FormattingEnabled = true;
+            this.toCurrency.Items.AddRange(new object[] {
+            "BYN",
+            "USD",
+            "EUR",
+            "RUB"});
             this.toCurrency.Location = new System.Drawing.Point(327, 211);
             this.toCurrency.Name = "toCurrency";
             this.toCurrency.Size = new System.Drawing.Size(121, 32);
@@ -109,7 +120,7 @@
             this.Controls.Add(this.fromAmount);
             this.Controls.Add(this.messageBox);
             this.Name = "CurrencyForm";
-            this.Text = "Form1";
+            this.Text = "CurrencyConverter";
             this.ResumeLayout(false);
             this.PerformLayout();
 

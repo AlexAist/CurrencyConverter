@@ -39,53 +39,59 @@
             // messageBox
             // 
             this.messageBox.BackColor = System.Drawing.SystemColors.Window;
+            this.messageBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.messageBox.HideSelection = false;
             this.messageBox.Location = new System.Drawing.Point(39, 12);
             this.messageBox.Multiline = true;
             this.messageBox.Name = "messageBox";
             this.messageBox.ReadOnly = true;
-            this.messageBox.Size = new System.Drawing.Size(203, 143);
-            this.messageBox.TabIndex = 0;
+            this.messageBox.Size = new System.Drawing.Size(409, 174);
+            this.messageBox.TabIndex = 8;
             // 
             // fromAmount
             // 
-            this.fromAmount.Location = new System.Drawing.Point(39, 210);
+            this.fromAmount.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.fromAmount.Location = new System.Drawing.Point(40, 261);
             this.fromAmount.Name = "fromAmount";
-            this.fromAmount.Size = new System.Drawing.Size(121, 20);
+            this.fromAmount.Size = new System.Drawing.Size(121, 29);
             this.fromAmount.TabIndex = 0;
             // 
             // toAmount
             // 
             this.toAmount.BackColor = System.Drawing.SystemColors.Control;
-            this.toAmount.Location = new System.Drawing.Point(250, 210);
+            this.toAmount.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.toAmount.Location = new System.Drawing.Point(327, 261);
             this.toAmount.Name = "toAmount";
             this.toAmount.ReadOnly = true;
-            this.toAmount.Size = new System.Drawing.Size(121, 20);
+            this.toAmount.Size = new System.Drawing.Size(121, 29);
             this.toAmount.TabIndex = 1;
             // 
             // fromCurrency
             // 
             this.fromCurrency.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.fromCurrency.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.fromCurrency.FormattingEnabled = true;
-            this.fromCurrency.Location = new System.Drawing.Point(39, 173);
+            this.fromCurrency.Location = new System.Drawing.Point(40, 211);
             this.fromCurrency.Name = "fromCurrency";
-            this.fromCurrency.Size = new System.Drawing.Size(121, 21);
+            this.fromCurrency.Size = new System.Drawing.Size(121, 32);
             this.fromCurrency.TabIndex = 6;
             // 
             // toCurrency
             // 
             this.toCurrency.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.toCurrency.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.toCurrency.FormattingEnabled = true;
-            this.toCurrency.Location = new System.Drawing.Point(250, 173);
+            this.toCurrency.Location = new System.Drawing.Point(327, 211);
             this.toCurrency.Name = "toCurrency";
-            this.toCurrency.Size = new System.Drawing.Size(121, 21);
+            this.toCurrency.Size = new System.Drawing.Size(121, 32);
             this.toCurrency.TabIndex = 7;
             // 
             // convertButton
             // 
-            this.convertButton.Location = new System.Drawing.Point(167, 249);
+            this.convertButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.convertButton.Location = new System.Drawing.Point(198, 296);
             this.convertButton.Name = "convertButton";
-            this.convertButton.Size = new System.Drawing.Size(75, 23);
+            this.convertButton.Size = new System.Drawing.Size(123, 38);
             this.convertButton.TabIndex = 5;
             this.convertButton.Text = "Перевести";
             this.convertButton.UseVisualStyleBackColor = true;
@@ -95,7 +101,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(421, 296);
+            this.ClientSize = new System.Drawing.Size(517, 336);
             this.Controls.Add(this.convertButton);
             this.Controls.Add(this.toCurrency);
             this.Controls.Add(this.fromCurrency);

@@ -16,8 +16,8 @@ namespace CurrencyConverter
         {
             InitializeComponent();
             Nbrb();
-            fromCurrency.SelectedIndex = 0;
-            toCurrency.SelectedIndex = 1;
+            fromCurrency.SelectedIndex = 1;
+            toCurrency.SelectedIndex = 2;
             fromAmount.Text = "";
             convertButton.Enabled = false;
         }

@@ -12,7 +12,7 @@
 <a name="1"></a>
 ### 1. Введение
 
-Этот план описывает тестирование приложения "CurrencyConverter" для работы с клиентами.
+Этот план описывает тестирование Desktop приложения "CurrencyConverter" для работы с клиентами.
 Цель проведения тестирования - проверить соответствие работы приложения определенным на начальном этапе [требованиям](https://github.com/Vanya112/CurrencyConverter/blob/master/Documentation/SRS-ru.md) и [диаграммам](https://github.com/Vanya112/CurrencyConverter/tree/master/Documentation/Diagrams).
 
 <a name="2"></a>
